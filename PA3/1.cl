@@ -1,0 +1,3 @@
+CLASS A {
+	x : String;
+};

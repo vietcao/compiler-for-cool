@@ -1,0 +1,46 @@
+#1
+_program
+  #1
+  _class
+    Main
+    Object
+    "grading/attrbadinit.test"
+    (
+    #1
+    _method
+      main
+      Object
+      #1
+      _int
+        0
+      : _no_type
+    )
+  #1
+  _class
+    Cow
+    Object
+    "grading/attrbadinit.test"
+    (
+    #1
+    _attr
+      moo
+      Object
+      #1
+      _no_expr
+      : _no_type
+    )
+  #1
+  _class
+    Chicken
+    Object
+    "grading/attrbadinit.test"
+    (
+    #1
+    _attr
+      sound
+      Object
+      #1
+      _object
+        moo
+      : _no_type
+    )

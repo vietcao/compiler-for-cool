@@ -1,0 +1,32 @@
+#5
+_program
+  #5
+  _class
+    A
+    Object
+    "good.cl"
+    (
+    #5
+    _method
+      ana
+      Int
+      #5
+      _block
+        #4
+        _assign
+          x
+          #4
+          _int
+            3
+          : _no_type
+        : _no_type
+        #5
+        _assign
+          y
+          #5
+          _int
+            4
+          : _no_type
+        : _no_type
+      : _no_type
+    )

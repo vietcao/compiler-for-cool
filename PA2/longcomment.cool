@@ -1,0 +1,10 @@
+Comment test
+(* Comment test *)
+(* (* Comment test *) *)
+(* Comment (* test *) Comment *)
+(* Comment test (* comment test *) *)
+(* (* (* (* (* (* (* (* (* *) *) *) (* *) *) *) *) *) *) *)
+(************)
+(**)
+(*fdfd**)
+

@@ -1,0 +1,9 @@
+CLASS Main inherits IO { --dsds
+  main():Object { out_string("dd\n") };
+  String s;
+  s = "12";
+  String str;
+  str = "12345";
+(*tru(*ii
+u*)e*)
+};

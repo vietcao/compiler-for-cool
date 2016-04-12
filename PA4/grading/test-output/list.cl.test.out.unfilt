@@ -1,0 +1,2 @@
+./letbadinit.test:1: declaraion type of varible must be parent of assign expression
+Compilation halted due to static semantic errors.

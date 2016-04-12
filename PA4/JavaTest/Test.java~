@@ -1,0 +1,15 @@
+import java.io.*;
+import java.util.*;
+public class Test extends ParentTest {
+	public Test(){
+
+	}
+    public void testf(){
+	System.out.print(" fucntion of Test");
+    }
+    public static void main(String args[]){
+	Test test = new Test();
+	ParentTest parent = (ParentTest) test;
+	if( test == parent ) System.out.print("Oh it work ! ");
+	}
+}

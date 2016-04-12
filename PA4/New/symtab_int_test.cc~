@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include "symtab.h"
+int main(){
+  SymbolTable<char*, int >* table = new SymbolTable<char*, int>();
+  table->enterscope();
+  table->addid("viet", new  int(23));
+  printf("%d", *table->lookup("viet"));
+	 return 1;
+}

@@ -1,0 +1,11 @@
+	-1 (inheritsbool)	 Class inherits Bool (illegal)
+	-1 (inheritsselftype)	 Class inherits SELF_TYPE (illegal)
+	-1 (inheritsstring)	 Class inherits String (illegal)
+	-1 (list)	 List program [submission looped infinitely on this input]
+	-1 (missingclass)	 Inheritance from an undefined class
+	-1 (newselftype)	 Using a new SELF_TYPE expression (legal)
+	-1 (nomain)	 Missing Main class
+	-1 (overridingmethod3)	 Method override example with SELF_TYPE
+	-1 (overridingmethod4)	 Illegal method override - different param types
+	-1 (signaturechange)	 Method override with different number of params
+	-1 (returntypenoexist)	 Undefined return type

@@ -1,0 +1,15 @@
+import java.io.*;
+import java.util.*;
+public class ParentTest{
+	public int x;
+	public ParentTest(){
+		this.x = 1;
+	}
+	public void setX(int x){
+		this.x = x;
+	}
+	public void f(){
+		System.out.print(x);
+	}
+
+}

@@ -1,0 +1,12 @@
+class Main{
+	main(): Int {
+		{
+		let x : String <- "my string" in
+			x.length();
+		1;
+		}
+	};
+
+
+
+};

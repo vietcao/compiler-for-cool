@@ -1,0 +1,9 @@
+import java.io.*;
+
+class Parent{
+  public:
+	void Print(){
+	 System.out.print("Method Print of Parent class");
+		return;
+	}
+};
